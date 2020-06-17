@@ -1,0 +1,39 @@
+"Filter while the call is" legal?
+
+Feature
+
+Buying Temperatur
+
+Type of Prospect : Network predicts whether the prospect is a more emotional or rational type --> Suggests strategy for sales process. 
+Later develop Personas.
+
+Stragey emotional: Objectionhandling "Beyreuther emotionale einwandbehandlung"
+Strategy rational: XING Pain Points
+
+
+Learn the top sellers way of handling these objections.
+"Suggest "way of jan" use this that etc."
+
+consists of Emotion in sales
+Greed, Feat, Shame, Prestige etc.
+
+om emotional level
+and on informational level with the text spoken
+--> Classification whether deal is closed or not.
+
+
+After some times: Classify which seller is the best with each persona and distribute the leads this way to gain maximum profit.
+
+With this "just calling from new sellers" benefits, as for this experience for the network is collected.
+This require a data pipeline.
+
+
+In the end implement a Slackbot Coach:
+The Coach anaylses the performance of the seller. Gives feedback for improvements.
+
+
+
+https://towardsdatascience.com/data-augmentation-for-speech-recognition-e7c607482e78
+
+
+https://neuralocean.de/index.php/de/2018/03/28/data-augmentation-was-ist-das/

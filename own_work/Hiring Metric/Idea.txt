@@ -1,0 +1,45 @@
+Develop a new hiring metric.
+Deploy it into a viewable dashboard.
+
+
+https://recruitingheadlines.com/why-traditional-hiring-metrics-need-to-be-revamped/
+
+
+Problem: Faster and Cheaper attitude would attract the right people.
+
+Old Time to hire and cost per hire can provide solutions for faster and cheaper but these attributes wont create long termin hirin solutions for companys.
+
+Using these metrics would give you the opportunity on how to quantify tzhe return of investment.s
+
+Metrics of hiring success:
+Hiring Budget:
+Reframes the cost of recruiting as an investment by anchoring the recruting budget relative to the salary of oeple hired.   NHP New hire Payroll --> like customer aquisition cost in sales.
+
+Hiring velocity:
+Percentage of jobs filled on time.
+e.g. New sales people hired on time to hit next years growth target.
+Enough developers hired on time to finish the product?
+Enough drivers hired on time to managed expected delievery demand?
+
+Net Hiring Score:
+90 days in ask the hirign manager: On scale one to 10 is this person the right fit for the job?   Gives sense of employee performance
+
+90 days in, ask the new hires : "On scale one to ten is this job the right fit for you? Gives sense of employee satisfaction
+
+Average the scores across managers and new hires, subtracting the ercentage of detractors from the percentage of advocates
+NHS <0  you hire more bad fits than good fits
+NHS = 0 hiring as good as bad --> nuetral
+NHS >0 hiring more great fits than bad fits --> Business thrives.
+
+objective, scalabe method to quickly assess tje performance of your recruting team and process without having to wait for year end review. Second employer satisfaction and permance measurable
+Hiring Scorecard
+net hiring score
+
+ 
+
+ 
+ 
+
+
+
+

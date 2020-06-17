@@ -1,0 +1,10 @@
+https://towardsdatascience.com/data-augmentation-in-nlp-2801a34dfc28
+
+
+
+https://medium.com/@makcedward/data-augmentation-for-audio-76912b01fdf6
+
+
+https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html
+
+https://github.com/hcmlab/emovoice real time emotion
